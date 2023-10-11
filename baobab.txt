@@ -1,0 +1,1 @@
+mongodb+srv://grzegoz2004:Transformers1002@cos.5ftvstb.mongodb.net/?retryWrites=true&w=majority
